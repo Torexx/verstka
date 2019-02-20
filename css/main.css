@@ -110,6 +110,7 @@ ul li:before{
 	background-color: #383838;
 	border: 1px solid #e8e8e8;
 	transition: .25s;
+	cursor: pointer;
 }
 .advantage_title{
 	position: absolute;
